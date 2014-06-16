@@ -1,0 +1,6 @@
+cat	the	2
+chased	cat	2
+chased	mouse	2
+mouse	the	2
+chased	dog	2
+dog	the	2
