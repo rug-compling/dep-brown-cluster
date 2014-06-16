@@ -20,7 +20,7 @@ For each word type, its cluster (see [output.txt](output.txt) for an example). I
 
 If you use this code, please cite:
 
--   Simon Šuster and Gertjan van Noord (2014) [From neighborhood to parenthood: the advantages of dependency representation over bigrams in Brown clustering.][] COLING. See also [induced clusters and experimental details](http://bitbucket.org/SSuster/dep-brown-data).
+-   Simon Šuster and Gertjan van Noord (2014) [From neighborhood to parenthood: the advantages of dependency representation over bigrams in Brown clustering.][] COLING. See also [induced clusters and experimental details](http://github.com/rug-compling/dep-brown-data).
 
 Other references:
 
