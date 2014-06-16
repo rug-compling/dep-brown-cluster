@@ -12,7 +12,9 @@ Tab-separated sequence of “head”, “dependent” and “count” (see [inpu
 
 ### Output
 
-For each word type, its cluster (see [output.txt](output.txt) for an example). In particular, each line is: \[cluster bit id\] \[word\] \[number of times word occurs in input\]
+For each word type, its cluster (see [output.txt](output.txt) for an example). In particular, each line is: 
+
+\[cluster bit id\] \[word\] \[number of times word occurs in input\]
 
 ### References
 
