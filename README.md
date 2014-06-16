@@ -12,7 +12,7 @@ Tab-separated sequence of “head”, “dependent” and “count” (see [inpu
 
 ### Output
 
-For each word type, its cluster (see [output.txt](output.txt) for an example). In particular, each line is: <cluster bit id> <word> <number of times word occurs in input>
+For each word type, its cluster (see [output.txt](output.txt) for an example). In particular, each line is: \[cluster bit id\] \[word\] \[number of times word occurs in input\]
 
 ### References
 
@@ -40,7 +40,7 @@ Cluster [input.txt](input.txt) into 50 clusters (–max-ind-level controls amoun
     ./wcluster --text input.txt --c 50 --max-ind-level 3
     # Output in input-c50-p1.out/paths
 
-### Changes for DLM clustering
+### Changes for dependency clustering
 
 Changes to the original code were made in the following files/functions:
 
